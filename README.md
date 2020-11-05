@@ -21,8 +21,8 @@ npm run webpack
 npm start
 
 - API Links
-  localhost:3000/api/v1/parse
-  localhost:3000/api/v2/parse
+  POST: localhost:3000/api/v1/parse
+  POST: localhost:3000/api/v2/parse
 Request Format:
  {"data":"JOHN0000MICHAEL0009994567"}
   
